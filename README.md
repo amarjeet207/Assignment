@@ -1,12 +1,14 @@
-# React + Vite
+# Installation To run this application locally, follow these steps:
+👉 Prerequisites Make sure you have Node.js and npm (Node Package Manager) installed on your machine.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Step 1. Clone the repository: git clone https://github.com/your-username/Assignment.git
 
-Currently, two official plugins are available:
+Step 2: Navigate to the project directory: cd EZ Assignment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step 3: Install dependencies: npm install
 
-## Expanding the ESLint configuration
+Step 4: Run the application: npm run dev
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Step 5: Open the application in your browser: Open your browser and go to http://localhost:5173 (or replace 5173 with your specific port number if different) to see the app in action.
+
+## I have used React js and Tailwind CSS for styling.
